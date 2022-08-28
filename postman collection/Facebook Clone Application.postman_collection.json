@@ -62,7 +62,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"firstName\":\"Kamal\",\n    \"surname\":\"Mayakaduwage\",\n    \"gender\":\"male\",\n    \"dateOfBirth\":\"1999-08-07\",\n    \"password\":\"12345\",\n    \"phoneNumber\":\"0765401908\",\n    \"email\":\"pansiluprabharsha1@gmail.com\"\n}",
+							"raw": "{\n    \"firstName\":\"Nimal\",\n    \"surname\":\"Wasundara\",\n    \"gender\":\"male\",\n    \"dateOfBirth\":\"1999-08-07\",\n    \"password\":\"12345\",\n    \"phoneNumber\":\"0765401908\",\n    \"email\":\"pansiluprabharsha1@gmail.com\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
